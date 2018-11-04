@@ -1,4 +1,4 @@
-This explains how all of the scripts work and how they are connected
+This explains how the run_analysis.R script works:
 
 1) Retrieve data from Internet with given URL
 2) Unpack data retrieved at step 1
